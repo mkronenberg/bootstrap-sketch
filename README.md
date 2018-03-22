@@ -1,2 +1,3 @@
-# bootstrap
-Bootstrap Sketch Component Library
+# Bootstrap for Sketch
+Bootstrap Component Sketch Library
+https://mkronenberg.github.io/bootstrap/
