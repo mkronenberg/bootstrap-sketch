@@ -5,4 +5,5 @@
     /* bottom, gradient */
     linear-gradient(90deg, #E4EAF0 0%, #F8F9FA 100%);
     background-size: cover;
+    margin-bottom: 4rem;
 }
