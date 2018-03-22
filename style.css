@@ -1,0 +1,7 @@
+.jumbotron {
+    background:
+    /* top, image */
+    url(image.png),
+    /* bottom, gradient */
+    linear-gradient(90deg, #E4EAF0 0%, #F8F9FA 100%);
+}
