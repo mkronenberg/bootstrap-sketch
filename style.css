@@ -7,3 +7,10 @@
     background-size: contain;
     margin-bottom: 4rem;
 }
+
+dl.row {margin-bottom: 0;}
+
+.easy-grids .lead,
+.easy-grids dd {color: #868E96;}
+
+.easy-grids dt {color: #17A2B8;}
