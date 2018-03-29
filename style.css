@@ -11,9 +11,6 @@
 }
 
 .get-project {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-    margin-bottom: 4rem;
     color: white;
     background: #007BFF;
 }
@@ -24,7 +21,6 @@
 }
 
 .get-project .btn-light {color: #007BFF;}
-
 .get-project .btn-link small {opacity: .4;}
 
 dl.row {margin-bottom: 0;}
