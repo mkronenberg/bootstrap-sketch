@@ -23,9 +23,6 @@
 .get-project .btn-light {color: #007BFF;}
 .get-project .btn-link small {opacity: .4;}
 
-dl.row {margin-bottom: 0;}
-
-.easy-grids .lead,
-.easy-grids dd {color: #868E96;}
-
-.easy-grids dt {color: #17A2B8;}
+.features .lead,
+.features .media-body {color: #868E96;}
+.features .oi {color: #17A2B8;}
