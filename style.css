@@ -12,10 +12,18 @@
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     margin-bottom: 4rem;
-    background: #F8F9FA;
-    border-top: 1px solid #C5D2DE;
-    border-bottom: 1px solid #C5D2DE;
+    color: white;
+    background: #007BFF;
 }
+
+.get-project .text-muted {
+    color: white !important;
+    opacity: .4;
+}
+
+.get-project .btn-light {color: #007BFF;}
+
+.get-project .btn-link small {opacity: .4;}
 
 dl.row {margin-bottom: 0;}
 
