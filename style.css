@@ -1,15 +1,9 @@
 .navbar {box-shadow: 0 2px 4px 0 rgba(0,0,0,0.20);}
 
 .hero {
-    background:
-    /* top, image */
-    url(images/screenshot/sketch-screenshot@2x.png) bottom right no-repeat,
-    /* bottom, gradient */
-    linear-gradient(90deg, #E4EAF0 0%, #F8F9FA 100%);
-    background-size: contain;
-    margin-bottom: 0;
+    background: linear-gradient(90deg, #E4EAF0 0%, #F8F9FA 100%);
 }
 
-.display-4 {font-size: 3rem;}
+.flush-right {padding-right: 0;}
 
 .get-project small {opacity: .4;}
