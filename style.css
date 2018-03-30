@@ -10,19 +10,4 @@
     margin-bottom: 0;
 }
 
-.get-project {
-    color: white;
-    background: #007BFF;
-}
-
-.get-project .text-muted {
-    color: white !important;
-    opacity: .4;
-}
-
-.get-project .btn-light {color: #007BFF;}
-.get-project .btn-link small {opacity: .4;}
-
-.features .lead,
-.features .media-body {color: #868E96;}
-.features .oi {color: #17A2B8;}
+.get-project small {opacity: .4;}
