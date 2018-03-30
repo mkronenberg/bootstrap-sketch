@@ -1,4 +1,6 @@
 .navbar {box-shadow: 0 2px 4px 0 rgba(0,0,0,0.20);}
+.navbar h5 {line-height: 1;}
+.navbar p {font-size: .9rem;}
 
 .hero {background: linear-gradient(90deg, #E4EAF0 0%, #F8F9FA 100%);}
 
